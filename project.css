@@ -1,3 +1,49 @@
-body{
-  position: center;
+
+h1{
+  color: SteelBlue;
+  text-align: center;
+  font-family: 'Merienda', cursive;
+  margin: 50px;
+  text-transform: uppercase;
+}
+
+.art{
+  margin: auto;
+}
+table{
+
+
+}
+
+td {
+  margin: 35px;
+  height: 500px;
+  width: 250px;
+  border: 6px solid white;
+}
+
+/*.boxes{
+  padding: 100px;
+}*/
+
+
+#td1{
+  background-color: #073B4C;
+
+}
+
+#td2{
+  background-color: #EF476F;
+}
+
+#td3{
+  background-color: #FFD166;
+}
+
+#td4{
+  background-color: #06D6A0;
+}
+
+#td5{
+  background-color: #118AB2;
 }
